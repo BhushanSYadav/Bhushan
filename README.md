@@ -1,2 +1,2 @@
 # Bhushan
-City of Vancouver Data Analytic Platform using AWS services
+Projects on Exploratory Data Analysis, Descriptive Analysis, Diagnostic Analysis, Data Wrangling, and Data Quality Control using AWS services.
